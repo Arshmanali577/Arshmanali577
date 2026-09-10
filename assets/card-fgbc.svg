@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180" role="img" aria-label="FGBC-2.0 — First Gulf Business Center · Dubai">
+  <defs>
+    <linearGradient id="plate02" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#131034"/>
+      <stop offset="100%" stop-color="#0C0A22"/>
+    </linearGradient>
+    <linearGradient id="rail02" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#8E2DE2"/>
+      <stop offset="100%" stop-color="#8E2DE2" stop-opacity="0.15"/>
+    </linearGradient>
+    <linearGradient id="title02" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#8E2DE2"/>
+    </linearGradient>
+    <radialGradient id="halo02" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8E2DE2" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#8E2DE2" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="178" rx="14" fill="url(#plate02)" stroke="#8E2DE2" stroke-opacity="0.28"/>
+  <ellipse cx="1080" cy="90" rx="260" ry="140" fill="url(#halo02)"/>
+  <rect x="1" y="26" width="4" height="128" rx="2" fill="url(#rail02)"/>
+
+  <text x="1150" y="52" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="46"
+        font-weight="bold" fill="#8E2DE2" opacity="0.16">02</text>
+
+  <text x="40" y="58" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-weight="bold"
+        font-size="34" fill="url(#title02)">FGBC-2.0</text>
+  <text x="218" y="58" font-family="'Courier New', Courier, monospace" font-size="18" fill="#7C87A8">First Gulf Business Center · Dubai</text>
+
+  <text x="40" y="94" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#9BA6C4">Luxury serviced offices, coworking, RERA EJARI virtual-office contracts and UAE</text>
+  <text x="40" y="120" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#9BA6C4">business-setup services — a full commercial site with 24/7 booking enquiries.</text>
+
+    <g><rect x="40" y="140" width="83" height="26" rx="13" fill="#00F5D4" fill-opacity="0.13" stroke="#00F5D4" stroke-opacity="0.45"/><text x="81.5" y="158" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="15" fill="#00F5D4">Next.js</text></g>
+  <g><rect x="133" y="140" width="110" height="26" rx="13" fill="#8E2DE2" fill-opacity="0.13" stroke="#8E2DE2" stroke-opacity="0.45"/><text x="188.0" y="158" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="15" fill="#8E2DE2">TypeScript</text></g>
+  <g><rect x="253" y="140" width="92" height="26" rx="13" fill="#FF2E97" fill-opacity="0.13" stroke="#FF2E97" stroke-opacity="0.45"/><text x="299.0" y="158" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="15" fill="#FF2E97">Tailwind</text></g>
+  <g><rect x="355" y="140" width="74" height="26" rx="13" fill="#00F5D4" fill-opacity="0.13" stroke="#00F5D4" stroke-opacity="0.45"/><text x="392.0" y="158" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="15" fill="#00F5D4">Vercel</text></g>
+
+  <g opacity="0.9">
+    <text x="1160" y="150" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="17"
+          fill="#8E2DE2">fgbc-2-0.vercel.app &#8599;</text>
+  </g>
+</svg>

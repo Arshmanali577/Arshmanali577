@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180" role="img" aria-label="ARC-2.0 — ARC Builders · Brisbane">
+  <defs>
+    <linearGradient id="plate01" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#131034"/>
+      <stop offset="100%" stop-color="#0C0A22"/>
+    </linearGradient>
+    <linearGradient id="rail01" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00F5D4"/>
+      <stop offset="100%" stop-color="#00F5D4" stop-opacity="0.15"/>
+    </linearGradient>
+    <linearGradient id="title01" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#00F5D4"/>
+    </linearGradient>
+    <radialGradient id="halo01" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00F5D4" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#00F5D4" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="178" rx="14" fill="url(#plate01)" stroke="#00F5D4" stroke-opacity="0.28"/>
+  <ellipse cx="1080" cy="90" rx="260" ry="140" fill="url(#halo01)"/>
+  <rect x="1" y="26" width="4" height="128" rx="2" fill="url(#rail01)"/>
+
+  <text x="1150" y="52" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="46"
+        font-weight="bold" fill="#00F5D4" opacity="0.16">01</text>
+
+  <text x="40" y="58" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-weight="bold"
+        font-size="34" fill="url(#title01)">ARC-2.0</text>
+  <text x="198" y="58" font-family="'Courier New', Courier, monospace" font-size="18" fill="#7C87A8">ARC Builders · Brisbane</text>
+
+  <text x="40" y="94" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#9BA6C4">Marketing site for a residential &amp; commercial builder — 12 project case studies,</text>
+  <text x="40" y="120" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#9BA6C4">10 location pages and a blog, on a design system rebuilt 1:1 from the source file.</text>
+
+    <g><rect x="40" y="140" width="110" height="26" rx="13" fill="#00F5D4" fill-opacity="0.13" stroke="#00F5D4" stroke-opacity="0.45"/><text x="95.0" y="158" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="15" fill="#00F5D4">Next.js 16</text></g>
+  <g><rect x="160" y="140" width="92" height="26" rx="13" fill="#8E2DE2" fill-opacity="0.13" stroke="#8E2DE2" stroke-opacity="0.45"/><text x="206.0" y="158" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="15" fill="#8E2DE2">React 19</text></g>
+  <g><rect x="262" y="140" width="110" height="26" rx="13" fill="#FF2E97" fill-opacity="0.13" stroke="#FF2E97" stroke-opacity="0.45"/><text x="317.0" y="158" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="15" fill="#FF2E97">TypeScript</text></g>
+  <g><rect x="382" y="140" width="119" height="26" rx="13" fill="#00F5D4" fill-opacity="0.13" stroke="#00F5D4" stroke-opacity="0.45"/><text x="441.5" y="158" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="15" fill="#00F5D4">Tailwind v4</text></g>
+
+  <g opacity="0.9">
+    <text x="1160" y="150" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="17"
+          fill="#00F5D4">arc-2-0-psi.vercel.app &#8599;</text>
+  </g>
+</svg>

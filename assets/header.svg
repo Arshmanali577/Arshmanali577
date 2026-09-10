@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Arshman Ali - Full-Stack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0F0C29"/>
+      <stop offset="55%" stop-color="#12102F"/>
+      <stop offset="100%" stop-color="#0A0918"/>
+    </linearGradient>
+
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00F5D4"/>
+      <stop offset="50%" stop-color="#8E2DE2"/>
+      <stop offset="100%" stop-color="#FF2E97"/>
+    </linearGradient>
+
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00F5D4" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00F5D4" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#FF2E97" stop-opacity="0"/>
+    </linearGradient>
+
+    <radialGradient id="glowTeal" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00F5D4" stop-opacity="0.32"/>
+      <stop offset="100%" stop-color="#00F5D4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowPurple" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8E2DE2" stop-opacity="0.38"/>
+      <stop offset="100%" stop-color="#8E2DE2" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowPink" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FF2E97" stop-opacity="0.26"/>
+      <stop offset="100%" stop-color="#FF2E97" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0 H0 V40" fill="none" stroke="#00F5D4" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+
+    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="7"/>
+    </filter>
+
+    <mask id="fade">
+      <linearGradient id="fadeGrad" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="0.9"/>
+        <stop offset="100%" stop-color="#ffffff" stop-opacity="0.1"/>
+      </linearGradient>
+      <rect width="1200" height="300" fill="url(#fadeGrad)"/>
+    </mask>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#grid)" mask="url(#fade)"/>
+
+  <ellipse cx="215" cy="95" rx="330" ry="200" fill="url(#glowTeal)"/>
+  <ellipse cx="980" cy="215" rx="360" ry="210" fill="url(#glowPurple)"/>
+  <ellipse cx="640" cy="40" rx="300" ry="150" fill="url(#glowPink)"/>
+
+  <g fill="#00F5D4">
+    <circle cx="128" cy="72" r="2.5" opacity="0.8">
+      <animate attributeName="opacity" values="0.15;0.9;0.15" dur="3.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1064" cy="96" r="2" opacity="0.6">
+      <animate attributeName="opacity" values="0.7;0.15;0.7" dur="4.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="332" cy="242" r="1.8" opacity="0.5">
+      <animate attributeName="opacity" values="0.1;0.65;0.1" dur="5.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g fill="#FF2E97">
+    <circle cx="892" cy="54" r="2.2" opacity="0.7">
+      <animate attributeName="opacity" values="0.8;0.2;0.8" dur="3.9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="196" cy="228" r="2" opacity="0.5">
+      <animate attributeName="opacity" values="0.15;0.75;0.15" dur="4.6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g stroke="#00F5D4" stroke-width="2" fill="none" opacity="0.55">
+    <path d="M44 78 V44 H78"/>
+    <path d="M1156 78 V44 H1122"/>
+    <path d="M44 222 V256 H78"/>
+    <path d="M1156 222 V256 H1122"/>
+  </g>
+
+  <text x="600" y="118" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="20" letter-spacing="7" fill="#00F5D4" opacity="0.85">FULL-STACK DEVELOPER</text>
+
+  <g filter="url(#soft)" opacity="0.5">
+    <text x="600" y="196" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+          font-weight="bold" font-size="78" letter-spacing="6" fill="url(#neon)">ARSHMAN ALI</text>
+  </g>
+  <text x="600" y="196" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+        font-weight="bold" font-size="78" letter-spacing="6" fill="url(#neon)">ARSHMAN ALI</text>
+
+  <text x="600" y="238" text-anchor="middle" font-family="'Courier New', Courier, monospace"
+        font-size="17" letter-spacing="2" fill="#9BA6C4">TypeScript &#183; React &#183; Next.js &#183; Node.js</text>
+
+  <rect x="380" y="258" width="440" height="2" rx="1" fill="url(#neon)" opacity="0.75"/>
+  <rect x="380" y="258" width="150" height="2" rx="1" fill="url(#sweep)">
+    <animate attributeName="x" values="380;670;380" dur="4.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>

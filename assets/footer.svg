@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200" role="img" aria-label="Let's build something">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A0918"/>
+      <stop offset="100%" stop-color="#0F0C29"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00F5D4" stop-opacity="0.55"/>
+      <stop offset="50%" stop-color="#8E2DE2" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#FF2E97" stop-opacity="0.45"/>
+    </linearGradient>
+    <linearGradient id="wave2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF2E97" stop-opacity="0.3"/>
+      <stop offset="50%" stop-color="#00F5D4" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#8E2DE2" stop-opacity="0.3"/>
+    </linearGradient>
+    <linearGradient id="ftext" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00F5D4"/>
+      <stop offset="60%" stop-color="#8E2DE2"/>
+      <stop offset="100%" stop-color="#FF2E97"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="200" fill="url(#fbg)"/>
+
+  <g>
+    <path fill="url(#wave2)" d="M0,158 C150,120 300,196 450,158 C600,120 750,196 900,158 C1050,120 1150,176 1200,158 L1200,200 L0,200 Z">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -24 6; 0 0" dur="7s" repeatCount="indefinite"/>
+    </path>
+    <path fill="url(#wave1)" d="M0,174 C160,148 320,202 480,174 C640,146 800,202 960,174 C1080,152 1160,184 1200,174 L1200,200 L0,200 Z">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 26 -5; 0 0" dur="5.5s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <text x="600" y="74" text-anchor="middle" font-family="'Courier New', Courier, monospace"
+        font-size="15" letter-spacing="5" fill="#9BA6C4" opacity="0.85">$ git commit -m &quot;let&#39;s build something&quot;</text>
+
+  <text x="600" y="120" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+        font-weight="bold" font-size="34" letter-spacing="3" fill="url(#ftext)">SHIP FAST. REFACTOR SMARTER.</text>
+
+  <g fill="#00F5D4">
+    <circle cx="556" cy="142" r="3" opacity="0.9">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="578" cy="142" r="3" fill="#8E2DE2" opacity="0.9">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="1.5s" begin="0.3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="600" cy="142" r="3" fill="#FF2E97" opacity="0.9">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="1.5s" begin="0.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="622" cy="142" r="3" fill="#8E2DE2" opacity="0.9">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="1.5s" begin="0.9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="644" cy="142" r="3" opacity="0.9">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="1.5s" begin="1.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
