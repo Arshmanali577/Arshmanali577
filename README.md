@@ -66,7 +66,7 @@ const arshman = {
 ### 💬 Let's build something
 
 <a href="https://www.linkedin.com/in/arshman-ali-814702386/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0C29" /></a>
-<a href="https://arshman.site/"><img src="https://img.shields.io/badge/Portfolio-00F5D4?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0F0C29" /></a>
+<a href="https://arshman.site/"><img src="https://img.shields.io/badge/Portfolio-00F5D4?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 
 <br/><br/>
 
