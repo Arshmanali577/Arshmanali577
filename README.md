@@ -15,13 +15,11 @@
 <img src="https://img.shields.io/badge/FOCUS-Full--Stack-FF2E97?style=for-the-badge&labelColor=0F0C29" alt="focus" />
 <img src="https://img.shields.io/badge/OPEN%20TO-Collaboration-00F5D4?style=for-the-badge&labelColor=0F0C29" alt="open to work" />
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,50:8E2DE2,100:FF2E97&height=4&section=header" width="100%" alt="divider" />
 
 </div>
 
 <h2 align="center">🧬 &nbsp;whoami</h2>
-
-<div align="center">
 
 ```ts
 const arshman = {
@@ -33,9 +31,7 @@ const arshman = {
 } as const;
 ```
 
-</div>
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,50:8E2DE2,100:FF2E97&height=4&section=header" width="100%" alt="divider" />
 
 <h2 align="center">⚙️ &nbsp;Tech Arsenal</h2>
 
@@ -45,54 +41,25 @@ const arshman = {
 
 <img src="https://skillicons.dev/icons?i=ts,js,html,css,python&theme=dark" alt="languages" />
 
-<p>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0F0C29" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0F0C29" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0F0C29" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0F0C29" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0F0C29" />
-</p>
 
 ### 🎨 Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite,sass&theme=dark" alt="frontend" />
 
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0F0C29" />
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=0F0C29" />
-</p>
 
 ### 🛠️ Backend & Database
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,prisma&theme=dark" alt="backend" />
 
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0F0C29" />
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0F0C29" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0F0C29" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0F0C29" />
-</p>
 
 ### ☁️ Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,figma,postman,vscode,linux&theme=dark" alt="tools" />
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0F0C29" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0F0C29" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=0F0C29" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0F0C29" />
-</p>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,50:8E2DE2,100:FF2E97&height=4&section=header" width="100%" alt="divider" />
 
 <div align="center">
 
